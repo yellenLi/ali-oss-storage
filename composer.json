@@ -1,5 +1,5 @@
 {
-  "name": "yellen/ali-oss-storage",
+  "name": "yellenli/ali-oss-storage",
   "description": "aliyun oss filesystem storage for laravel 5+",
   "keywords": [
     "aliyun",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "yellen",
+      "name": "yellenli",
       "email": "623969088@qq.com"
     }
   ],
@@ -21,13 +21,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Yellen\\AliOSS\\": "src/"
+      "YellenLi\\AliOSS\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Yellen\\AliOSS\\AliOssServiceProvider"
+        "YellenLi\\AliOSS\\AliOssServiceProvider"
       ]
     }
   }
