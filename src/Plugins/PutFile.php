@@ -1,6 +1,6 @@
 <?php
 
-namespace Jacobcyl\AliOSS\Plugins;
+namespace YellenLi\AliOSS\Plugins;
 
 use Illuminate\Support\Facades\Log;
 use League\Flysystem\Config;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Jacobcyl\AliOSS;
+namespace YellenLi\AliOSS;
 
 use Dingo\Api\Contract\Transformer\Adapter;
 use League\Flysystem\Adapter\AbstractAdapter;

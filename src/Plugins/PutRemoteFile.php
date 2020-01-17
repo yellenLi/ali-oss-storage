@@ -1,6 +1,6 @@
 <?php
 
-namespace Jacobcyl\AliOSS\Plugins;
+namespace YellenLi\AliOSS\Plugins;
 
 use League\Flysystem\Config;
 use League\Flysystem\Plugin\AbstractPlugin;
